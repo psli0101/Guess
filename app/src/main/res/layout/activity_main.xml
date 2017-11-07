@@ -39,6 +39,7 @@
         android:layout_marginLeft="0dp"
         app:layout_constraintLeft_toLeftOf="@+id/textView2" />
 
+
     <Button
         android:id="@+id/b_push"
         android:layout_width="wrap_content"
@@ -68,6 +69,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="16dp"
+        android:text=""
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintLeft_toRightOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent" />
